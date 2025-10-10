@@ -14,20 +14,20 @@
 
 ### Instalación y Verificación
 
-**Método de instalación:** [Especifica el método recomendado]
-
-> **💡 Sobre las imágenes**: Incluye capturas de pantalla para mostrar los diferentes pasos o resultados. Ejemplo: ![Descripción clara del contenido](screenshots/placeholder.png)`
+**Método de instalación:** [desde la pagina web oficial de Visual Studio Code ![https://code.visualstudio.com/](<Captura de pantalla 2025-10-08 172620.png>)]
 
 **Proceso de instalación:**
-- **Descarga:** [Describir el proceso]
-- **Opciones del instalador:** [Documentar las opciones que se consideraron importantes]
-- **Verificación:** [Cómo verificar que funciona]
+- **Descarga:** [Estando situados en la página de VS Code!
+[https://code.visualstudio.com/download](<Captura de pantalla 2025-10-08 172558.png>) instalamos el paquete para windows, una vez descargado nos salen varias pestañas para seguir el proceso de descarga...]
+- **Opciones del instalador:** [![instalamos el paquete para windows](<Captura de pantalla 2025-10-08 172546.png>); ![Una vez descargado le damos a "abrir archivo"](<Captura de pantalla 2025-10-08 174141.png>); ![Elegimos las funciones que queremos que tenga nuestro Visual Code en este caso"](<Captura de pantalla 2025-10-08 174740.png>); ![Esperamos a que el programa se instale](<Captura de pantalla 2025-10-08 174804.png>); ![Una vez instalamos, le damos Ejecutar Visual Studio Code](<Captura de pantalla 2025-10-08 174823.png>)]
+
+- **Verificación:** [ ![Una vez instalado, nos adentramos a la aplicación, una vez metido nos sale todo el contenido y herraminetas que contiene el Visual](<Captura de pantalla 2025-10-10 174438.png>)]
 
 *Es posible documentar múltiples métodos.*
 
 ### Uso Básico de VS Code
 
-**Navegación y funcionalidades básicas:**
+**Navegación y funcionalidades básicas:** 
 - Navegación por la interfaz
 - Edición de código
 - Uso de la paleta de comandos
