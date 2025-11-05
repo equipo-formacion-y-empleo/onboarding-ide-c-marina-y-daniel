@@ -28,10 +28,10 @@
 ### Uso Básico de VS Code
 
 **Navegación y funcionalidades básicas:** 
-- Navegación por la interfaz
-- Edición de código
-- Uso de la paleta de comandos
-- Gestión de archivos y carpetas
+- Navegación por la interfaz, Para poder navegar en VS, utilizaremos Ctrl + Tab, para cambiar de pestañas de archivos abiertos y Ctrl + P, para asi abrir un archivo del proyecto, tambien podemos utilizar Ctrl + G para ir a una linea especifica, 
+- Edición de código, permite a los programadores escribir y editar un código fuente de una manera mas eficiente, la diferencia que tieen con un editor de texto, es que ofrece funciones especializadas como resalto de sintaxis 
+- Uso de la paleta de comandos: si ponemos Ctrl + Mayús + P obtendremos el acceso a la paleta de comandos, una herramienta muyútil para encontrar funciones y configuraciones.
+- Gestión de archivos y carpetas, Para organizar, almacenar y controlar la información digital para facilitar su búsqueda y recuperación 
 
 ### Personalización del Entorno
 
