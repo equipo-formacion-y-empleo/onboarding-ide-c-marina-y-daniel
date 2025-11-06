@@ -41,7 +41,7 @@
 
 **Temas e iconos:**
 Ejemplos:
-- Material Theme, One Dark Pro
+- Material Theme, One Dark Pro: ![Este es el paso anterior a instalar el fondo One Dark Pro](<Captura de pantalla 2025-11-06 191119.png>)
 - File Icon Theme para mejor identificación de archivos
 
 **Configuración de fuentes:**
@@ -53,7 +53,7 @@ Ejemplos:
 - Ctrl+/ para comentar/descomentar
 - Ctrl+Shift+P para paleta de comandos
 - Ctrl+` para terminal integrada
-- Alt+↑/↓ para mover líneas
+- Alt+↑/↓ para mover líneas: ![Aqui se muestra como hemos movido una linea con el atajo que pone antes](image.png)
 
 **Configuración del editor:**
 Ejemplos:
