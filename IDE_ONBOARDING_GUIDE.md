@@ -35,7 +35,7 @@
 
 ### Personalización del Entorno
 
-**Configuraciones aplicadas:** [Describir las personalizaciones que se realizaron]
+**Configuraciones aplicadas:** Se realizaron varias personalizaciones en el Visual Studio Code para mejorar la aparencia y la productividad del entorno. Se instaló el tema One Dark Pro, para asi obtener un fondo oscuro más comodo a la vista y el paquete de iconos Material Icon Theme, facilita la identificar los distintos tipos de archivos, también, se configuró la fuente Fira Code, con ligaduras activadas, mejorando la legibilidad del código, Además, se habilitó la opción de formateo automatico al guardar, el ajuste de línea y la detección de indentación automática para mantener el código ordenado. Se añadieron atajos de teclado útiles como Ctrl + / para comentar las lineas y Crtl + B para mostrar y ocultar la barra lateral
 
 *Ejemplos de configuraciones útiles (elegir las que se consideren relevantes):*
 
