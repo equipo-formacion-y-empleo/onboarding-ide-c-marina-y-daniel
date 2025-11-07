@@ -71,7 +71,7 @@ Ejemplos:
 ### SDK .NET
 
 **Proceso de instalación:**
-1. **Descarga e instalación:** Estando situados en la página de dotnet ![https://dotnet.microsoft.com/en-us/download](<Captura de pantalla 2025-11-06 222659-1.png>) instalamos el paquete de .net 9.0, unaa vez descargado nos salen varias pestañas. Damos a "abrir archivo" y nos sale otra pestaña ![esto es lo que sale cuando damos a "abrir archivo"](<Captura de pantalla 2025-11-06 223259-1.png>) le damos a instalar y una vez instalado nos sale otra pestaña ![esta es la pestña que nos sale despues de instalarlo](<Captura de pantalla 2025-11-06 223751-1.png>)
+1. **Descarga e instalación:** Estando situados en la página de dotnet ![https://dotnet.microsoft.com/en-us/download](<Captura de pantalla 2025-11-06 222659-1.png>) instalamos el paquete de .net 9.0, unaa vez descargado nos salen varias pestañas. Damos a "abrir archivo" y nos sale otra pestaña ![esto es lo que sale cuando damos a "abrir archivo"](<Captura de pantalla 2025-11-06 223259-1.png>) le damos a instalar y una vez instalado nos sale otra pestaña![ esta es la pestaña que nos sale despues de instalarlo ](<Captura de pantalla 2025-11-06 223751-1.png>)
 2. **Verificación:** ![Una vez instalado nos metemos en visual studio code y para comprobar que funciona vamos a la terminal y escribimos "dotnet" y nos sale esto](<Captura de pantalla 2025-11-06 234419-1.png>)
 
 ### Configuración para C#
