@@ -119,10 +119,10 @@ void GenerateCollatzSequence(long initialNumber)
 ```
 
 **Compilación y ejecución:**
-[Proceso para compilar y ejecutar proyectos]
+![El resultado de compilar y ejecutar](<Captura de pantalla 2025-11-07 112724-1.png>)
 
 **Debugging:**
-[Configuración y uso de debugging]
+![Captura de lo que aparece cuando le das a "Run and Debug"](<Captura de pantalla 2025-11-07 112348-1.png>)
 
 ---
 
