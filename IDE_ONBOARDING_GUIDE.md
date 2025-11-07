@@ -189,16 +189,24 @@ void GenerateCollatzSequence(long initialNumber)
 ## Configuraciones Recomendadas
 
 **Configuraciones generales:**
-[Documentar configuraciones que se consideran útiles para cualquier desarrollador]
+[![Cambiamos el tema ](<Captura de pantalla 2025-11-07 185637.png>) ![Le decimos que complie siempre que se pueda](<Captura de pantalla 2025-11-07 185907.png>)]
 
 **Herramientas adicionales:**
-[Extensions, herramientas CLI, o utilidades que se consideran beneficiosas]
+ReSharper: Mejora la refactorización y la navegación
+CodeMaid: limpio, tiene organización y formatea el código automaticamente
+Github Copilot: Sugerencias inteligentes para escribir código más rápido
+
 
 **Solución de problemas comunes:**
-[Problemas frecuentes durante la configuración y sus soluciones]
+Si el proyecto no compila, revisa referencias en el Solution Explorer y vuelve a agregar las referencias.
+Si no se encuentra el SDK instala el SDK correspondiente dessde la pagina oficial de dotnet.
+Si el Visual Studio va lento desactiva las extenciones innecesarias y limpia el caché.
+
+
 
 **Recursos útiles:**
-- Enlace [Enlace]: [Descripción]
-- Documentación [Documentación]: [Descripción]
+- Enlace (https://dotnet.microsoft.com/es-es/download): Descargas SDKs y herramientas para .NET
+
+- Documentación (https://learn.microsoft.com/es-es/visualstudio/?view=vs-2022): [Guia completa de todas las caracteristicas de Visual Studio] 
 
 ---
