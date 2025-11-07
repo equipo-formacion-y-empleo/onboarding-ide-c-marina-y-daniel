@@ -96,12 +96,26 @@ Hay tres configuraciones:
 ### Flujo de Trabajo con C#
 
 **Creación de proyectos:**
-[Documentar el proceso para crear proyectos C#]
+A la hora de la creacion de proyectos para ejecutar el dotnet abrimos la terminal y ejecutamos poniendo dotnet y el nombre del proyecto y una linea mas abajo ponemos cd y el nombre del proyecto.
 
 **Estructura de proyecto:**
 ```csharp
-// Incluir aquí un ejemplo del código desarrollado
-// Comentarios sobre las decisiones tomadas
+/// <summary>
+/// Genera la secuencia de Collatz para un número inicial dado.
+/// </summary>
+/// <param name="initialNumber">Número inicial para generar la secuencia.</param>
+void GenerateCollatzSequence(long initialNumber)
+{
+    while (initialNumber != 1)
+    {
+        if (initialNumber % 2 == 0)
+            initialNumber = initialNumber / 2;
+        else
+            initialNumber = initialNumber * 3 + 1;
+
+        Console.Write(initialNumber);
+    }
+}
 ```
 
 **Compilación y ejecución:**
@@ -117,9 +131,9 @@ Hay tres configuraciones:
 ### Instalación
 
 **Proceso de instalación:**
-- **Descarga:** [Versión recomendada - Community/Professional]
-- **Componentes necesarios:** [Componentes específicos para C#]
-- **Verificación:** [Cómo confirmar instalación correcta]
+- **Descarga:** ![Estando situados en la pagina oficial de visual studio](<Captura de pantalla 2025-11-07 171013.png>) ![Le damos a descargar, nos sale tres opciones y le damos  a desacargar download community ](<Captura de pantalla 2025-11-07 171023.png>) ![Una vez descargado le damos a abrir archivo y nos sale la pestaña que aparece a la izquierda de la captura](<Captura de pantalla 2025-11-07 171105.png>) 
+- **Componentes necesarios:** ![Incluimos las herramientas que vamos a utilizar para .NET](<Captura de pantalla 2025-11-07 171515.png>)
+- **Verificación:** [![Esto sirve para confirmar la version y los componentes instalados ](<Captura de pantalla 2025-11-07 174258.png>) ![Para comprobar que funciona ponemos un ejemplo de codigo](<Captura de pantalla 2025-11-07 175342.png>) ![Lo ejecutamos](<Captura de pantalla 2025-11-07 175750.png>)]
 
 ### Desarrollo con C#
 
