@@ -138,18 +138,18 @@ void GenerateCollatzSequence(long initialNumber)
 ### Desarrollo con C#
 
 **Creación de proyecto:**
-[Describir el proceso para crear un proyecto C# en Visual Studio]
+[![Estando situados en la pagina principal de Visual Studio le damos a crear proyecto](<Captura de pantalla 2025-11-07 180642.png>) ![Seleccionamos la herramienta que vamos a utilizar](<Captura de pantalla 2025-11-07 180659.png>) ![Nombramos el proyecto y ponemos la ubicacion del archivo](<Captura de pantalla 2025-11-07 180858.png>) ![Elegimos la versión de .NET que queremos utilizar](<Captura de pantalla 2025-11-07 180911.png>) ![El archivo que nos genera Visual Studio automaticamente](<Captura de pantalla 2025-11-07 180930.png>)]
 
 **Flujo de trabajo básico:**
-- Compilación y ejecución
-- Uso de Solution Explorer
-- Debugging básico
+- Compilación y ejecución: ![La captura de compilacion en la parte inferior](<Captura de pantalla 2025-11-07 181937.png>) ![La captura de depuracion en la parte inferior](<Captura de pantalla 2025-11-07 182018.png>)
+- Uso de Solution Explorer: ![sale el panel derecho ](<Captura de pantalla 2025-11-07 182500.png>)
+- Debugging básico: ![Empieza la depuracion del proyecto](<Captura de pantalla 2025-11-07 183239.png>) ![Acabamos la depuracion del proyecto](<Captura de pantalla 2025-11-07 183449.png>) 
 
 ---
 
 ## Configuración de Lenguaje Adicional
 
-**Lenguaje seleccionado:** [Java/Python/Otro] - **Justificación:** [Por qué se eligió este lenguaje]
+**Lenguaje seleccionado:** [Python] - **Justificación:** [Hemos seleccionado Python porque es un lenguaje fácil de aprender y versatil. Se utiliza en desarrollo web y ciencia de datos.]
 
 ### Instalación del Entorno
 
