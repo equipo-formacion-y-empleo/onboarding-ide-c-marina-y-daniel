@@ -180,13 +180,23 @@ Paso 2:Seleccionamos el interprete: ![Abrimos un archivo .py](<Captura de pantal
 ### Proyecto de Ejemplo
 
 **Código desarrollado:**
-```[lenguaje]
-// Código de ejemplo aquí
-// Comentarios explicativos
+```[Python]
+
+import  sys
+
+age = 25
+price = 19.99
+initial = 'A'
+available = True
+
+print(f"age: {age} (size: {sys.getsizeof(age)} bytes)")
+print(f"price: {price} (size: {sys.getsizeof(price)} bytes)")
+print(f"initial: {initial} (size: {sys.getsizeof(initial)} bytes)")
+print(f"available: {available} (size: {sys.getsizeof(available)} bytes)")
 ```
 
 **Proceso de ejecución:**
-[Describir cómo ejecutar el código]
+![Una vez escrito el codigo de ejemplo le damos a terminal y abrimos una nueva terminal, seleccionamos la ubicacion en la que esta guardada el archivo y ponemos python y el nombre del archivo y lo ejecutamos](<Captura de pantalla 2025-11-08 142230.png>) ![Seleccionamos una linea del codigo y vamos al margen izquierdo le damos al simbolo donde hay un triangulo y un insecto y le damos a "run and debug" y nos sale lo que se muestra en la captura ](<Captura de pantalla 2025-11-08 142346.png>) ![Para dejar de ejecutar y depurar nos ponemos encima del circulo rojo, le damos clic derecho y le damos a "Run to Line"](<Captura de pantalla 2025-11-08 144419.png>)
 
 ---
 
