@@ -122,7 +122,7 @@ void GenerateCollatzSequence(long initialNumber)
 ![El resultado de compilar y ejecutar](<Captura de pantalla 2025-11-07 112724-1.png>)
 
 **Debugging:**
-![Captura de lo que aparece cuando le das a "Run and Debug"](<Captura de pantalla 2025-11-07 112348-1.png>)
+![Captura de lo que aparece cuando le das a "Run and](<Captura de pantalla 2025-11-07 112348-1.png>)
 
 ---
 
@@ -154,8 +154,8 @@ void GenerateCollatzSequence(long initialNumber)
 ### Instalación del Entorno
 
 **Runtime/SDK:**
-- **Descarga e instalación:** [Proceso paso a paso]
-- **Verificación:** [Cómo confirmar que funciona]
+- **Descarga e instalación:** ![Estando situados en la pagina oficial de python descargamos la version de 64 bits para windows  ](<Captura de pantalla 2025-11-07 235744.png>) ![Una vez descargado le damos a "abrir archivo" y nos sale esta pestaña en la que seleccionamos la opcion "Add python.exe to PATH" y le damos a "Install now" ](<Captura de pantalla 2025-11-07 235800.png>) ![Una vez instalado nos sale esta pestaña](<Captura de pantalla 2025-11-08 000000.png>)
+- **Verificación:** ![Para verificar que funciona correctamente ponemos Python en la terminal](<Captura de pantalla 2025-11-08 000710.png>) ![Hacemos un ejemplo con Python y lo ejecutamos para ver si funciona bien](<Captura de pantalla 2025-11-08 002021.png>) 
 
 ### Configuración en VS Code
 
