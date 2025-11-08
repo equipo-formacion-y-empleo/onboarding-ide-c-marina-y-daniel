@@ -5,7 +5,7 @@
 > **Nota importante**: Este documento se enfoca en aspectos técnicos y procedimientos. Para análisis comparativos, reflexiones personales y conclusiones, utiliza el archivo `CONCLUSIONES_EVALUACION.md`.
 
 **Autores**: Daniel y Marina
-**Fecha V0**: [Fecha de entrega inicial]
+**Fecha V0**: 08/11/2025
 **Fecha V1**: [Fecha de entrega final]
 
 ---
@@ -160,18 +160,22 @@ void GenerateCollatzSequence(long initialNumber)
 ### Configuración en VS Code
 
 **Extensiones por lenguaje:**
+En nuestro caso hemos elegido python
 
 *Para Java:*
 - **Paquete completo de Java**: Incluye compilación, debugging y gestión de proyectos
 
 *Para Python:*
-- **Soporte oficial de Python**: Extensión completa con intérprete y debugging
+- **Soporte oficial de Python**: 
+Paso 1:Instalar extensiones de lenguaje:![Le damos a Ctrl+Shift+X para abrir el gestor de extensiones ](<Captura de pantalla 2025-11-08 134549.png>) ![Buscamos Python y Pylance y las instalamos](<Captura de pantalla 2025-11-08 130648.png>)
+
+Paso 2:Seleccionamos el interprete: ![Abrimos un archivo .py](<Captura de pantalla 2025-11-08 135522.png>)![Le damos a Ctrl+Shift+P para abrir la paleta de comandos y seleccionamos la primera opcion en la que vamos a seleccionar el interprete que vamos a utilizar](<Captura de pantalla 2025-11-08 135609.png>) ![Seleccionamos el interprete de Python 3.13.9](<Captura de pantalla 2025-11-08 135717.png>)
 
 *Para otros lenguajes:*
 - Busca la extensión oficial del lenguaje que proporcione soporte completo
 
 **Configuraciones específicas aplicadas:**
-[Documentar los ajustes que se realizaron, como configuración del intérprete, formateo automático, linting, etc.]
+![Le damos a Ctrl+Shift+B para abrir la paleta de comandos y seleccionamos la primera opcion para abrir la configuracion de las herramientas de JSON](<Captura de pantalla 2025-11-08 131157.png>) ![Escribimos esto en dodne decimos las herramientas de JSON que vamos a utilizar y las configuramos ](<Captura de pantalla 2025-11-08 132752.png>)
 
 ### Proyecto de Ejemplo
 
