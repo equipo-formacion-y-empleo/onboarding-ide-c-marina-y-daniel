@@ -14,18 +14,18 @@
 
 | Aspecto | Visual Studio Code | Visual Studio |
 |---------|-------------------|---------------|
-| **Facilidad de instalación** | [Experiencia inicial] | [Experiencia inicial] |
-| **Primera impresión** | [Evaluación] | [Evaluación] |
-| **Configuración básica** | [Observación] | [Observación] |
-| **Soporte para C#** | [Análisis inicial] | [Análisis inicial] |
+| **Facilidad de instalación** | [La instalación fue rápida y sencilla. Solo que tuvimos que descargarlo y ya esta lista para usar ] | [Tardo más tiempo en instalarse porque tiene más componentes, pero la instalación fue guiada y clara.] |
+| **Primera impresión** | [ELa interfaz es atractiva y moderna. facil de entender para un principiante] | [Se ve más profesional, pero tiene muchas opciones al principio que pueden confundir] |
+| **Configuración básica** | [Necesité instalar extesiones para poder usar C#, pero fue fácil hacerlo desde la tienda de extensiones] | [Ya viene con soporte para C# integrado y no necesita configuraciones extra] |
+| **Soporte para C#** | [Funciona bien con C# gracias a la extensión C# de Microsoft, pero a veces hay que ajustar configuraciones] | [Análisis inicial Tiene un soporte más completo para C#, depuración y plantillas de proyectos listas.] |
 
 ### Preferencia Inicial
 **IDE que se prefiere tras la configuración inicial:** [Visual Studio Code / Visual Studio]
-
+    Elegimos Visual studio
 **Razones iniciales:**
-- [Primera razón basada en configuración inicial]
-- [Segunda razón basada en primeras pruebas]
-- [Tercera razón si aplica]
+- [ Visual Studio ya viene preparado para C#, mientras que VS Code necesita más pasos]
+- [ En visual Studio pude ejecutar el código más rápido y con menos errores]
+- [ Me pareció más cómodo para proyectos grandes y para aprender depuración]
 
 ---
 
